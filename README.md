@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-with-scss-bem-and-css-flexbox-4WW3Wvl_B](https://www.frontendmentor.io/solutions/faq-accordion-card-with-scss-bem-and-css-flexbox-4WW3Wvl_B)
+- Live Site URL: [https://rafo38kh.github.io/faq-accordion-card/](https://rafo38kh.github.io/faq-accordion-card/)
 
 ## My process
 
