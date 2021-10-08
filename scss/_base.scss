@@ -1,0 +1,35 @@
+$color-primary: hsl(238, 29%, 16%);
+$color-secondary: hsl(14, 88%, 65%);
+$color-tertiary: hsl(240, 6%, 50%);
+$color-tertiary--dark: hsl(237, 12%, 33%);
+$color-tertiary--light: hsl(240, 5%, 91%);
+$gradient-priamry: linear-gradient(
+  to bottom,
+  hsl(273, 75%, 66%),
+  hsl(240, 73%, 65%)
+);
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  // width: 100%;
+  font-size: 1.6rem;
+  font-family: "Kumbh Sans", sans-serif;
+  background-image: $gradient-priamry;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
